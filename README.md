@@ -1,16 +1,21 @@
-## Hi there 👋
+## boas vindas ao meu perfil🫀
 
-<!--
-**yasminemelly/yasminemelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é nome yasmin emelly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+### Você pode entrar em contato comigo 📫 ###
+
+00001100035096sp@al.educacao.sp.gov.br
+
+@vianayas__
+
+
+
+https://gifman.net/wp-content/uploads/2021/10/naruto-gif-cara-engracada-07.gif
